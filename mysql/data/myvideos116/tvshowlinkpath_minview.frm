@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `myvideos116`.`tvshowlinkpath`.`idShow` AS `idShow`,min(`myvideos116`.`tvshowlinkpath`.`idPath`) AS `idPath` from `myvideos116`.`tvshowlinkpath` group by `myvideos116`.`tvshowlinkpath`.`idShow`
+md5=b7d43c85c037b052a820406639911b3b
+updatable=0
+algorithm=0
+definer_user=xbmc
+definer_host=%
+suid=1
+with_check_option=0
+timestamp=2021-03-12 23:15:26
+create-version=2
+source=select `tvshowlinkpath`.`idShow` AS `idShow`,min(`tvshowlinkpath`.`idPath`) AS `idPath` from `tvshowlinkpath` group by `tvshowlinkpath`.`idShow`
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_general_ci
+view_body_utf8=select `myvideos116`.`tvshowlinkpath`.`idShow` AS `idShow`,min(`myvideos116`.`tvshowlinkpath`.`idPath`) AS `idPath` from `myvideos116`.`tvshowlinkpath` group by `myvideos116`.`tvshowlinkpath`.`idShow`
+mariadb-version=100137

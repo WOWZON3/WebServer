@@ -1,0 +1,326 @@
+[Fri Mar 12 13:05:15.074161 2021] [ssl:warn] [pid 6284:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:05:15.636663 2021] [ssl:warn] [pid 6284:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:05:15.839789 2021] [mpm_winnt:notice] [pid 6284:tid 388] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Fri Mar 12 13:05:15.839789 2021] [mpm_winnt:notice] [pid 6284:tid 388] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Fri Mar 12 13:05:15.839789 2021] [core:notice] [pid 6284:tid 388] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Mar 12 13:05:15.839789 2021] [mpm_winnt:notice] [pid 6284:tid 388] AH00418: Parent: Created child process 2024
+[Fri Mar 12 13:05:20.652307 2021] [ssl:warn] [pid 2024:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:05:21.183554 2021] [ssl:warn] [pid 2024:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:05:21.433554 2021] [mpm_winnt:notice] [pid 2024:tid 356] AH00354: Child: Starting 150 worker threads.
+[Fri Mar 12 13:13:26.329062 2021] [ssl:warn] [pid 6268:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:13:26.750939 2021] [ssl:warn] [pid 6268:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:13:26.875943 2021] [mpm_winnt:notice] [pid 6268:tid 452] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Fri Mar 12 13:13:26.875943 2021] [mpm_winnt:notice] [pid 6268:tid 452] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Fri Mar 12 13:13:26.875943 2021] [core:notice] [pid 6268:tid 452] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Mar 12 13:13:26.875943 2021] [mpm_winnt:notice] [pid 6268:tid 452] AH00418: Parent: Created child process 1144
+[Fri Mar 12 13:13:30.344695 2021] [ssl:warn] [pid 1144:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:13:30.750951 2021] [ssl:warn] [pid 1144:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 12 13:13:30.922827 2021] [mpm_winnt:notice] [pid 1144:tid 340] AH00354: Child: Starting 150 worker threads.
+[Fri Mar 12 13:36:09.263324 2021] [authz_core:error] [pid 1144:tid 1800] [client 91.66.92.29:60682] AH01630: client denied by server configuration: C:/xampp/htdocs/wow
+[Fri Mar 12 13:36:09.419574 2021] [authz_core:error] [pid 1144:tid 1800] [client 91.66.92.29:60682] AH01630: client denied by server configuration: C:/xampp/htdocs/favicon.ico, referer: http://nsradio.sytes.net/wow/
+[Fri Mar 12 13:36:44.310387 2021] [authz_core:error] [pid 1144:tid 1800] [client 91.66.92.29:60687] AH01630: client denied by server configuration: C:/xampp/htdocs/wow
+[Fri Mar 12 13:36:45.826010 2021] [authz_core:error] [pid 1144:tid 1800] [client 91.66.92.29:60687] AH01630: client denied by server configuration: C:/xampp/htdocs/wow
+[Fri Mar 12 13:36:53.107283 2021] [authz_core:error] [pid 1144:tid 1800] [client 91.66.92.29:60688] AH01630: client denied by server configuration: C:/xampp/htdocs/wow
+[Fri Mar 12 15:15:52.802389 2021] [authz_core:error] [pid 1144:tid 1800] [client 192.241.225.243:37532] AH01630: client denied by server configuration: C:/xampp/htdocs/hudson
+[Fri Mar 12 15:35:50.101503 2021] [authz_core:error] [pid 1144:tid 1800] [client 103.81.191.54:36450] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 15:39:34.359466 2021] [authz_core:error] [pid 1144:tid 1800] [client 192.241.228.54:58558] AH01630: client denied by server configuration: C:/xampp/htdocs/manager
+[Fri Mar 12 15:46:12.112346 2021] [authz_core:error] [pid 1144:tid 1800] [client 74.82.47.2:41286] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 15:49:26.925233 2021] [authz_core:error] [pid 1144:tid 1800] [client 162.142.125.56:57594] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 15:49:27.175244 2021] [authz_core:error] [pid 1144:tid 1800] [client 162.142.125.56:46556] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 16:02:52.799413 2021] [authz_core:error] [pid 1144:tid 1800] [client 80.82.77.33:52884] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 16:02:53.190060 2021] [authz_core:error] [pid 1144:tid 1800] [client 80.82.77.33:53482] AH01630: client denied by server configuration: C:/xampp/htdocs/robots.txt
+[Fri Mar 12 16:02:53.536914 2021] [authz_core:error] [pid 1144:tid 1800] [client 80.82.77.33:53908] AH01630: client denied by server configuration: C:/xampp/htdocs/sitemap.xml
+[Fri Mar 12 16:02:53.615038 2021] [authz_core:error] [pid 1144:tid 1800] [client 80.82.77.33:53990] AH01630: client denied by server configuration: C:/xampp/htdocs/.well-known
+[Fri Mar 12 16:02:53.790029 2021] [authz_core:error] [pid 1144:tid 1800] [client 80.82.77.33:54198] AH01630: client denied by server configuration: C:/xampp/htdocs/favicon.ico
+[Fri Mar 12 16:02:56.027800 2021] [authz_core:error] [pid 1144:tid 1800] [client 35.187.190.226:54764] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 16:16:58.285887 2021] [authz_core:error] [pid 1144:tid 1800] [client 164.90.173.125:42376] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:29:40.897953 2021] [authz_core:error] [pid 1144:tid 1800] [client 45.148.10.190:59566] AH01630: client denied by server configuration: C:/xampp/htdocs/vendor
+[Fri Mar 12 17:33:30.556241 2021] [authz_core:error] [pid 1144:tid 1800] [client 139.162.238.243:47536] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:35:39.757463 2021] [authz_core:error] [pid 1144:tid 1800] [client 205.185.122.102:49770] AH01630: client denied by server configuration: C:/xampp/htdocs/config
+[Fri Mar 12 17:37:35.791447 2021] [authz_core:error] [pid 1144:tid 1800] [client 208.100.26.229:50864] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:37:37.045740 2021] [authz_core:error] [pid 1144:tid 1800] [client 208.100.26.229:55350] AH01630: client denied by server configuration: C:/xampp/htdocs/nmaplowercheck1615567063
+[Fri Mar 12 17:37:37.092607 2021] [authz_core:error] [pid 1144:tid 1796] [client 208.100.26.229:55390] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:37:37.139481 2021] [authz_core:error] [pid 1144:tid 1792] [client 208.100.26.229:55426] AH01630: client denied by server configuration: C:/xampp/htdocs/sdk
+[Fri Mar 12 17:37:37.248857 2021] [authz_core:error] [pid 1144:tid 1788] [client 208.100.26.229:55504] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:37:37.405106 2021] [authz_core:error] [pid 1144:tid 1792] [client 208.100.26.229:55590] AH01630: client denied by server configuration: C:/xampp/htdocs/HNAP1
+[Fri Mar 12 17:37:37.451977 2021] [authz_core:error] [pid 1144:tid 1796] [client 208.100.26.229:55670] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:37:37.545731 2021] [authz_core:error] [pid 1144:tid 1800] [client 208.100.26.229:55730] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:37:37.611888 2021] [authz_core:error] [pid 1144:tid 1784] [client 208.100.26.229:55782] AH01630: client denied by server configuration: C:/xampp/htdocs/evox
+[Fri Mar 12 17:39:19.348913 2021] [authz_core:error] [pid 1144:tid 1784] [client 216.244.66.235:45338] AH01630: client denied by server configuration: C:/xampp/htdocs/robots.txt
+[Fri Mar 12 17:43:30.893242 2021] [authz_core:error] [pid 1144:tid 1784] [client 157.230.189.159:53080] AH01630: client denied by server configuration: C:/xampp/htdocs/login
+[Fri Mar 12 17:43:31.127625 2021] [authz_core:error] [pid 1144:tid 1784] [client 157.230.189.159:53174] AH01630: client denied by server configuration: C:/xampp/htdocs/jenkins
+[Fri Mar 12 17:43:31.338889 2021] [authz_core:error] [pid 1144:tid 1784] [client 157.230.189.159:53222] AH01630: client denied by server configuration: C:/xampp/htdocs/manager
+[Fri Mar 12 17:43:31.557652 2021] [authz_core:error] [pid 1144:tid 1788] [client 157.230.189.159:53312] AH01630: client denied by server configuration: C:/xampp/htdocs/wp-login.php
+[Fri Mar 12 17:43:31.779002 2021] [authz_core:error] [pid 1144:tid 1800] [client 157.230.189.159:53386] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:43:32.010073 2021] [authz_core:error] [pid 1144:tid 1796] [client 157.230.189.159:53442] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:43:32.223593 2021] [authz_core:error] [pid 1144:tid 1792] [client 157.230.189.159:53502] AH01630: client denied by server configuration: C:/xampp/htdocs/_ignition
+[Fri Mar 12 17:44:03.278112 2021] [authz_core:error] [pid 1144:tid 1792] [client 189.124.116.184:44256] AH01630: client denied by server configuration: C:/xampp/htdocs/login
+[Fri Mar 12 17:44:03.833644 2021] [authz_core:error] [pid 1144:tid 1792] [client 189.124.116.184:44398] AH01630: client denied by server configuration: C:/xampp/htdocs/jenkins
+[Fri Mar 12 17:44:04.382077 2021] [authz_core:error] [pid 1144:tid 1792] [client 189.124.116.184:44522] AH01630: client denied by server configuration: C:/xampp/htdocs/manager
+[Fri Mar 12 17:44:04.897706 2021] [authz_core:error] [pid 1144:tid 1796] [client 189.124.116.184:44634] AH01630: client denied by server configuration: C:/xampp/htdocs/wp-login.php
+[Fri Mar 12 17:44:05.422138 2021] [authz_core:error] [pid 1144:tid 1800] [client 189.124.116.184:44756] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:44:05.953392 2021] [authz_core:error] [pid 1144:tid 1788] [client 189.124.116.184:44864] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 17:44:06.449540 2021] [authz_core:error] [pid 1144:tid 1784] [client 189.124.116.184:45010] AH01630: client denied by server configuration: C:/xampp/htdocs/_ignition
+[Fri Mar 12 17:47:37.160043 2021] [authz_core:error] [pid 1144:tid 1784] [client 192.241.227.246:44604] AH01630: client denied by server configuration: C:/xampp/htdocs/manager
+[Fri Mar 12 17:52:33.641981 2021] [authz_core:error] [pid 1144:tid 1784] [client 216.244.66.235:40950] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 18:36:48.258081 2021] [authz_core:error] [pid 1144:tid 1784] [client 192.168.178.3:61768] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Fri Mar 12 18:37:13.145281 2021] [authz_core:error] [pid 1144:tid 1784] [client 216.244.66.235:46726] AH01630: client denied by server configuration: C:/xampp/htdocs/robots.txt
+[Fri Mar 12 18:43:40.222907 2021] [authz_core:error] [pid 1144:tid 1784] [client 216.244.66.235:58998] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 19:05:21.510248 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.3:61807] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Fri Mar 12 19:09:29.310445 2021] [authz_core:error] [pid 1144:tid 1788] [client 64.225.107.31:60110] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 19:09:29.529215 2021] [authz_core:error] [pid 1144:tid 1788] [client 64.225.107.31:60110] AH01630: client denied by server configuration: C:/xampp/htdocs/favicon.ico
+[Fri Mar 12 19:31:34.039400 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:55128] AH01630: client denied by server configuration: C:/xampp/htdocs/robots.txt
+[Fri Mar 12 19:37:32.877718 2021] [authz_core:error] [pid 1144:tid 1788] [client 128.14.133.58:44090] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 19:39:00.984440 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:53860] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 19:43:59.656068 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:39044] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 20:26:57.504556 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:40376] AH01630: client denied by server configuration: C:/xampp/htdocs/robots.txt
+[Fri Mar 12 20:34:13.598887 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:38080] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 20:34:24.506521 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:41726] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 20:34:47.317849 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:54008] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 20:39:26.946932 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:46910] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 20:39:57.427950 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:60338] AH01630: client denied by server configuration: C:/xampp/htdocs/board
+[Fri Mar 12 21:21:44.639651 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:52662] AH01630: client denied by server configuration: C:/xampp/htdocs/robots.txt
+[Fri Mar 12 21:25:44.854967 2021] [authz_core:error] [pid 1144:tid 1788] [client 216.244.66.235:50560] AH01630: client denied by server configuration: C:/xampp/htdocs/wow
+[Fri Mar 12 21:54:39.168140 2021] [authz_core:error] [pid 1144:tid 1788] [client 178.175.55.3:33699] AH01630: client denied by server configuration: C:/xampp/htdocs/HNAP1
+[Fri Mar 12 22:17:34.090144 2021] [authz_core:error] [pid 1144:tid 1788] [client 177.10.249.193:58176] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Fri Mar 12 23:31:25.905624 2021] [authz_core:error] [pid 1144:tid 1788] [client 193.70.33.60:42774] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Sat Mar 13 00:01:43.355060 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.50:39594] AH01630: client denied by server configuration: C:/xampp/htdocs/livetv.m3u
+[Sat Mar 13 00:01:43.382063 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.50:39596] AH01630: client denied by server configuration: C:/xampp/htdocs/livetv.m3u
+[Sat Mar 13 00:01:43.402063 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.50:39598] AH01630: client denied by server configuration: C:/xampp/htdocs/livetv.m3u
+[Sat Mar 13 00:19:34.318856 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.3:62606] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:21:44.917012 2021] [authz_core:error] [pid 1144:tid 1784] [client 192.168.178.3:62615] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:23:21.847819 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.3:62627] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:25:03.142745 2021] [authz_core:error] [pid 1144:tid 1784] [client 192.168.178.3:62643] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:25:49.306873 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.3:62647] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:37:22.282462 2021] [authz_core:error] [pid 1144:tid 1788] [client 192.168.178.3:62696] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:43:31.856513 2021] [authz_core:error] [pid 1144:tid 1784] [client 167.99.106.172:56562] AH01630: client denied by server configuration: C:/xampp/htdocs/login
+[Sat Mar 13 00:43:32.220529 2021] [authz_core:error] [pid 1144:tid 1784] [client 167.99.106.172:56698] AH01630: client denied by server configuration: C:/xampp/htdocs/jenkins
+[Sat Mar 13 00:43:32.666554 2021] [authz_core:error] [pid 1144:tid 1784] [client 167.99.106.172:56814] AH01630: client denied by server configuration: C:/xampp/htdocs/manager
+[Sat Mar 13 00:43:33.025583 2021] [authz_core:error] [pid 1144:tid 1788] [client 167.99.106.172:56980] AH01630: client denied by server configuration: C:/xampp/htdocs/wp-login.php
+[Sat Mar 13 00:43:33.385596 2021] [authz_core:error] [pid 1144:tid 1800] [client 167.99.106.172:57130] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Sat Mar 13 00:43:33.747618 2021] [authz_core:error] [pid 1144:tid 1796] [client 167.99.106.172:57272] AH01630: client denied by server configuration: C:/xampp/htdocs/
+[Sat Mar 13 00:43:34.102638 2021] [authz_core:error] [pid 1144:tid 1792] [client 167.99.106.172:57378] AH01630: client denied by server configuration: C:/xampp/htdocs/_ignition
+[Sat Mar 13 00:51:19.712762 2021] [authz_core:error] [pid 1144:tid 1792] [client 192.168.178.3:62856] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:53:25.204008 2021] [authz_core:error] [pid 1144:tid 1792] [client 192.168.178.3:62872] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 00:57:50.661028 2021] [authz_core:error] [pid 1144:tid 1792] [client 192.168.178.3:62899] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 01:04:15.260150 2021] [authz_core:error] [pid 1144:tid 1792] [client 192.168.178.3:62956] AH01630: client denied by server configuration: C:/xampp/htdocs/wow-launcher
+[Sat Mar 13 01:06:06.396783 2021] [mpm_winnt:notice] [pid 6268:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 13 01:06:08.402913 2021] [mpm_winnt:notice] [pid 1144:tid 340] AH00364: Child: All worker threads have exited.
+[Sat Mar 13 01:06:08.496006 2021] [mpm_winnt:notice] [pid 6268:tid 452] AH00430: Parent: Child process 1144 exited successfully.
+[Sat Mar 13 01:06:14.834943 2021] [ssl:warn] [pid 4376:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:06:15.440979 2021] [ssl:warn] [pid 4376:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:06:15.654985 2021] [mpm_winnt:notice] [pid 4376:tid 452] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 01:06:15.655987 2021] [mpm_winnt:notice] [pid 4376:tid 452] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 01:06:15.655987 2021] [core:notice] [pid 4376:tid 452] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 01:06:15.660987 2021] [mpm_winnt:notice] [pid 4376:tid 452] AH00418: Parent: Created child process 7804
+[Sat Mar 13 01:06:20.683285 2021] [ssl:warn] [pid 7804:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:06:21.266312 2021] [ssl:warn] [pid 7804:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:06:21.464326 2021] [mpm_winnt:notice] [pid 7804:tid 348] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 01:42:22.230408 2021] [mpm_winnt:notice] [pid 4376:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 13 01:42:24.235245 2021] [mpm_winnt:notice] [pid 7804:tid 348] AH00364: Child: All worker threads have exited.
+[Sat Mar 13 01:42:24.323252 2021] [mpm_winnt:notice] [pid 4376:tid 452] AH00430: Parent: Child process 7804 exited successfully.
+[Sat Mar 13 01:42:52.012911 2021] [ssl:warn] [pid 5100:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:42:52.679945 2021] [ssl:warn] [pid 5100:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:42:52.904958 2021] [mpm_winnt:notice] [pid 5100:tid 448] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 01:42:52.904958 2021] [mpm_winnt:notice] [pid 5100:tid 448] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 01:42:52.904958 2021] [core:notice] [pid 5100:tid 448] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 01:42:52.910960 2021] [mpm_winnt:notice] [pid 5100:tid 448] AH00418: Parent: Created child process 5172
+[Sat Mar 13 01:42:57.807247 2021] [ssl:warn] [pid 5172:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:42:58.359274 2021] [ssl:warn] [pid 5172:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:42:58.530286 2021] [mpm_winnt:notice] [pid 5172:tid 352] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 01:48:22.760318 2021] [mpm_winnt:notice] [pid 5100:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 13 01:48:24.764435 2021] [mpm_winnt:notice] [pid 5172:tid 352] AH00364: Child: All worker threads have exited.
+[Sat Mar 13 01:48:24.863441 2021] [mpm_winnt:notice] [pid 5100:tid 448] AH00430: Parent: Child process 5172 exited successfully.
+[Sat Mar 13 01:48:30.392762 2021] [ssl:warn] [pid 1868:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:48:30.854790 2021] [ssl:warn] [pid 1868:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:48:31.018802 2021] [mpm_winnt:notice] [pid 1868:tid 468] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 01:48:31.018802 2021] [mpm_winnt:notice] [pid 1868:tid 468] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 01:48:31.018802 2021] [core:notice] [pid 1868:tid 468] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 01:48:31.024803 2021] [mpm_winnt:notice] [pid 1868:tid 468] AH00418: Parent: Created child process 372
+[Sat Mar 13 01:48:34.919027 2021] [ssl:warn] [pid 372:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:48:35.469058 2021] [ssl:warn] [pid 372:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:48:35.617065 2021] [mpm_winnt:notice] [pid 372:tid 396] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 01:51:07.109735 2021] [mpm_winnt:notice] [pid 1868:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 13 01:51:09.113853 2021] [mpm_winnt:notice] [pid 372:tid 396] AH00364: Child: All worker threads have exited.
+[Sat Mar 13 01:51:09.193858 2021] [mpm_winnt:notice] [pid 1868:tid 468] AH00430: Parent: Child process 372 exited successfully.
+[Sat Mar 13 01:51:15.930250 2021] [ssl:warn] [pid 7964:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:51:16.572283 2021] [ssl:warn] [pid 7964:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:51:16.775295 2021] [mpm_winnt:notice] [pid 7964:tid 448] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 01:51:16.775295 2021] [mpm_winnt:notice] [pid 7964:tid 448] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 01:51:16.775295 2021] [core:notice] [pid 7964:tid 448] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 01:51:16.782297 2021] [mpm_winnt:notice] [pid 7964:tid 448] AH00418: Parent: Created child process 7284
+[Sat Mar 13 01:51:21.968596 2021] [ssl:warn] [pid 7284:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:51:22.577631 2021] [ssl:warn] [pid 7284:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:51:22.757642 2021] [mpm_winnt:notice] [pid 7284:tid 404] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 01:53:58.916085 2021] [mpm_winnt:notice] [pid 7964:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 13 01:54:00.922199 2021] [mpm_winnt:notice] [pid 7284:tid 404] AH00364: Child: All worker threads have exited.
+[Sat Mar 13 01:54:00.999204 2021] [mpm_winnt:notice] [pid 7964:tid 448] AH00430: Parent: Child process 7284 exited successfully.
+[Sat Mar 13 01:57:40.380798 2021] [ssl:warn] [pid 4564:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:57:41.000832 2021] [ssl:warn] [pid 4564:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:57:41.194848 2021] [mpm_winnt:notice] [pid 4564:tid 372] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 01:57:41.194848 2021] [mpm_winnt:notice] [pid 4564:tid 372] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 01:57:41.194848 2021] [core:notice] [pid 4564:tid 372] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 01:57:41.199843 2021] [mpm_winnt:notice] [pid 4564:tid 372] AH00418: Parent: Created child process 2428
+[Sat Mar 13 01:57:46.226137 2021] [ssl:warn] [pid 2428:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:57:46.842175 2021] [ssl:warn] [pid 2428:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:57:47.007181 2021] [mpm_winnt:notice] [pid 2428:tid 408] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 01:57:47.027182 2021] [access_compat:error] [pid 2428:tid 1744] [client 127.0.0.1:60269] AH01797: client denied by server configuration: C:/xampp/htdocs/wow
+[Sat Mar 13 01:57:47.028182 2021] [access_compat:error] [pid 2428:tid 1744] [client 127.0.0.1:60269] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var
+[Sat Mar 13 01:57:54.327609 2021] [access_compat:error] [pid 2428:tid 1744] [client 127.0.0.1:60270] AH01797: client denied by server configuration: C:/xampp/htdocs/
+[Sat Mar 13 01:57:54.329607 2021] [access_compat:error] [pid 2428:tid 1744] [client 127.0.0.1:60270] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var
+[Sat Mar 13 01:59:05.496751 2021] [mpm_winnt:crit] [pid 2428:tid 408] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Mar 13 01:59:13.022188 2021] [ssl:warn] [pid 6604:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:59:13.183199 2021] [core:warn] [pid 6604:tid 348] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 13 01:59:13.644224 2021] [ssl:warn] [pid 6604:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:59:13.833236 2021] [mpm_winnt:notice] [pid 6604:tid 348] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 01:59:13.834244 2021] [mpm_winnt:notice] [pid 6604:tid 348] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 01:59:13.834244 2021] [core:notice] [pid 6604:tid 348] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 01:59:13.841236 2021] [mpm_winnt:notice] [pid 6604:tid 348] AH00418: Parent: Created child process 6276
+[Sat Mar 13 01:59:18.901532 2021] [ssl:warn] [pid 6276:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:59:19.503570 2021] [ssl:warn] [pid 6276:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:59:19.698577 2021] [mpm_winnt:notice] [pid 6276:tid 420] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 01:59:59.694486 2021] [ssl:warn] [pid 7444:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 01:59:59.846494 2021] [core:warn] [pid 7444:tid 356] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 13 02:00:00.306528 2021] [ssl:warn] [pid 7444:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 02:00:00.496532 2021] [mpm_winnt:notice] [pid 7444:tid 356] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 02:00:00.497533 2021] [mpm_winnt:notice] [pid 7444:tid 356] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 02:00:00.497533 2021] [core:notice] [pid 7444:tid 356] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 02:00:00.503540 2021] [mpm_winnt:notice] [pid 7444:tid 356] AH00418: Parent: Created child process 6160
+[Sat Mar 13 02:00:05.759844 2021] [ssl:warn] [pid 6160:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 02:00:06.370880 2021] [ssl:warn] [pid 6160:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 02:00:06.563887 2021] [mpm_winnt:notice] [pid 6160:tid 368] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 02:00:07.193921 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/index.php
+[Sat Mar 13 02:00:07.195921 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/index.pl
+[Sat Mar 13 02:00:07.197922 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/index.cgi
+[Sat Mar 13 02:00:07.199922 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/index.asp
+[Sat Mar 13 02:00:07.201922 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/index.shtml
+[Sat Mar 13 02:00:07.203922 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/index.html
+[Sat Mar 13 02:00:07.205922 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/index.htm
+[Sat Mar 13 02:00:07.207923 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/default.php
+[Sat Mar 13 02:00:07.209925 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/default.pl
+[Sat Mar 13 02:00:07.211924 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/default.cgi
+[Sat Mar 13 02:00:07.213924 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/default.asp
+[Sat Mar 13 02:00:07.215929 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/default.shtml
+[Sat Mar 13 02:00:07.216928 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/default.html
+[Sat Mar 13 02:00:07.218927 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/default.htm
+[Sat Mar 13 02:00:07.220928 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/home.php
+[Sat Mar 13 02:00:07.222929 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/home.pl
+[Sat Mar 13 02:00:07.223928 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/home.cgi
+[Sat Mar 13 02:00:07.225928 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/home.asp
+[Sat Mar 13 02:00:07.227925 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/home.shtml
+[Sat Mar 13 02:00:07.229924 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/home.html
+[Sat Mar 13 02:00:07.231928 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/apache/icons/home.htm
+[Sat Mar 13 02:00:07.858961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/index.php
+[Sat Mar 13 02:00:07.860960 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Sat Mar 13 02:00:07.861961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Sat Mar 13 02:00:07.863960 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Sat Mar 13 02:00:07.864961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Sat Mar 13 02:00:07.866961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/index.html
+[Sat Mar 13 02:00:07.867961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Sat Mar 13 02:00:07.869961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/default.php
+[Sat Mar 13 02:00:07.870961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Sat Mar 13 02:00:07.872961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Sat Mar 13 02:00:07.873961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Sat Mar 13 02:00:07.875964 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Sat Mar 13 02:00:07.876963 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/default.html
+[Sat Mar 13 02:00:07.878964 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Sat Mar 13 02:00:07.880964 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/home.php
+[Sat Mar 13 02:00:07.881964 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Sat Mar 13 02:00:07.883961 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Sat Mar 13 02:00:07.885962 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Sat Mar 13 02:00:07.886964 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Sat Mar 13 02:00:07.888972 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/home.html
+[Sat Mar 13 02:00:07.889969 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60281] AH01797: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Sat Mar 13 02:00:08.199980 2021] [access_compat:error] [pid 6160:tid 1740] [client 127.0.0.1:60283] AH01797: client denied by server configuration: C:/xampp/apache/icons/unknown.gif, referer: http://localhost/
+[Sat Mar 13 02:00:08.201980 2021] [access_compat:error] [pid 6160:tid 1740] [client 127.0.0.1:60283] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var, referer: http://localhost/
+[Sat Mar 13 02:00:08.212981 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60282] AH01797: client denied by server configuration: C:/xampp/apache/icons/blank.gif, referer: http://localhost/
+[Sat Mar 13 02:00:08.213982 2021] [access_compat:error] [pid 6160:tid 1704] [client 127.0.0.1:60287] AH01797: client denied by server configuration: C:/xampp/apache/icons/folder.gif, referer: http://localhost/
+[Sat Mar 13 02:00:08.213982 2021] [access_compat:error] [pid 6160:tid 1744] [client 127.0.0.1:60282] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var, referer: http://localhost/
+[Sat Mar 13 02:00:08.214980 2021] [access_compat:error] [pid 6160:tid 1704] [client 127.0.0.1:60287] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var, referer: http://localhost/
+[Sat Mar 13 02:00:08.248986 2021] [access_compat:error] [pid 6160:tid 1720] [client 127.0.0.1:60285] AH01797: client denied by server configuration: C:/xampp/apache/icons/image2.gif, referer: http://localhost/
+[Sat Mar 13 02:00:08.259986 2021] [access_compat:error] [pid 6160:tid 1720] [client 127.0.0.1:60285] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var, referer: http://localhost/
+[Sat Mar 13 02:00:08.249985 2021] [access_compat:error] [pid 6160:tid 1712] [client 127.0.0.1:60286] AH01797: client denied by server configuration: C:/xampp/apache/icons/sound2.gif, referer: http://localhost/
+[Sat Mar 13 02:00:08.250988 2021] [access_compat:error] [pid 6160:tid 1696] [client 127.0.0.1:60288] AH01797: client denied by server configuration: C:/xampp/apache/icons/movie.gif, referer: http://localhost/
+[Sat Mar 13 02:00:08.279984 2021] [access_compat:error] [pid 6160:tid 1696] [client 127.0.0.1:60288] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var, referer: http://localhost/
+[Sat Mar 13 02:00:08.279984 2021] [access_compat:error] [pid 6160:tid 1712] [client 127.0.0.1:60286] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var, referer: http://localhost/
+[Sat Mar 13 02:00:08.253993 2021] [access_compat:error] [pid 6160:tid 1732] [client 127.0.0.1:60284] AH01797: client denied by server configuration: C:/xampp/apache/icons/text.gif, referer: http://localhost/
+[Sat Mar 13 02:00:08.286985 2021] [access_compat:error] [pid 6160:tid 1732] [client 127.0.0.1:60284] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var, referer: http://localhost/
+[Sat Mar 13 02:00:35.632309 2021] [access_compat:error] [pid 6160:tid 1732] [client 197.232.1.182:4274] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_NOT_FOUND.html.var
+[Sat Mar 13 02:00:39.002597 2021] [access_compat:error] [pid 6160:tid 1712] [client 197.232.1.182:55945] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var
+[Sat Mar 13 02:00:39.403618 2021] [access_compat:error] [pid 6160:tid 1712] [client 197.232.1.182:4646] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var
+[Sat Mar 13 02:03:19.976202 2021] [:error] [pid 6160:tid 1704] [client 127.0.0.1:60399] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\emulators\\trinity_rbac_ra.php on line 44, referer: http://localhost/wow/store
+[Sat Mar 13 02:03:19.982203 2021] [:error] [pid 6160:tid 1720] [client 127.0.0.1:60415] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\system\\libraries\\Session.php on line 34, referer: http://localhost/wow/store
+[Sat Mar 13 02:43:47.842653 2021] [:error] [pid 6160:tid 1692] [client 188.166.210.139:36782] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 02:43:48.719708 2021] [:error] [pid 6160:tid 1692] [client 188.166.210.139:36938] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 03:12:36.734250 2021] [autoindex:error] [pid 6160:tid 1696] [client 192.168.178.3:64284] AH01276: Cannot serve directory E:/#htdocs/building-tools/: No matching DirectoryIndex (index.php,index.pl,index.cgi,index.asp,index.shtml,index.html,index.htm,default.php,default.pl,default.cgi,default.asp,default.shtml,default.html,default.htm,home.php,home.pl,home.cgi,home.asp,home.shtml,home.html,home.htm) found, and server-generated directory index forbidden by Options directive
+[Sat Mar 13 03:12:36.737250 2021] [access_compat:error] [pid 6160:tid 1696] [client 192.168.178.3:64284] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_FORBIDDEN.html.var
+[Sat Mar 13 03:21:11.292972 2021] [:error] [pid 6160:tid 1696] [client 103.249.98.65:58220] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 03:21:11.611990 2021] [:error] [pid 6160:tid 1696] [client 103.249.98.65:58292] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 03:28:56.105600 2021] [:error] [pid 6160:tid 1712] [client 192.168.178.3:64361] PHP Parse error:  syntax error, unexpected '<' in E:\\#htdocs\\building-tools\\boost.php on line 4, referer: http://192.168.178.55/building-tools/
+[Sat Mar 13 03:29:34.692855 2021] [:error] [pid 6160:tid 1712] [client 192.168.178.3:64363] PHP Parse error:  syntax error, unexpected '<' in E:\\#htdocs\\building-tools\\boost.php on line 2, referer: http://192.168.178.55/building-tools/
+[Sat Mar 13 03:29:35.665957 2021] [:error] [pid 6160:tid 1712] [client 192.168.178.3:64365] PHP Parse error:  syntax error, unexpected '<' in E:\\#htdocs\\building-tools\\boost.php on line 2, referer: http://192.168.178.55/building-tools/
+[Sat Mar 13 03:41:29.256803 2021] [access_compat:error] [pid 6160:tid 1692] [client 116.162.56.6:3194] AH01797: client denied by server configuration: C:/xampp/phpMyAdmin/index.php
+[Sat Mar 13 03:41:29.258803 2021] [access_compat:error] [pid 6160:tid 1692] [client 116.162.56.6:3194] AH01797: client denied by server configuration: C:/xampp/apache/error/XAMPP_FORBIDDEN.html.var
+[Sat Mar 13 09:26:03.377678 2021] [:error] [pid 6160:tid 1712] [client 91.234.42.232:58856] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 09:26:03.526692 2021] [:error] [pid 6160:tid 1712] [client 91.234.42.232:58910] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 11:16:25.529797 2021] [:error] [pid 6160:tid 1696] [client 59.93.21.86:39184] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 11:57:06.271184 2021] [:error] [pid 6160:tid 1696] [client 18.234.76.218:53300] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 11:57:06.655003 2021] [:error] [pid 6160:tid 1696] [client 18.234.76.218:53432] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 12:43:37.267389 2021] [:error] [pid 6160:tid 1696] [client 164.90.143.42:53970] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 12:43:37.471044 2021] [:error] [pid 6160:tid 1696] [client 164.90.143.42:54026] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 14:20:05.911826 2021] [access_compat:error] [pid 6160:tid 1712] [client 194.61.25.4:48264] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var
+[Sat Mar 13 16:27:13.676175 2021] [:error] [pid 6160:tid 1712] [client 172.105.89.161:38055] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 16:31:13.306163 2021] [access_compat:error] [pid 6160:tid 1712] [client 109.70.100.34:44703] AH01797: client denied by server configuration: C:/xampp/apache/error/HTTP_BAD_REQUEST.html.var
+[Sat Mar 13 18:58:58.027369 2021] [ssl:warn] [pid 3264:tid 56] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 18:58:58.121120 2021] [core:warn] [pid 3264:tid 56] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 13 18:58:58.449246 2021] [ssl:warn] [pid 3264:tid 56] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 18:58:58.714871 2021] [mpm_winnt:notice] [pid 3264:tid 56] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 18:58:58.714871 2021] [mpm_winnt:notice] [pid 3264:tid 56] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 18:58:58.714871 2021] [core:notice] [pid 3264:tid 56] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 18:58:58.730503 2021] [mpm_winnt:notice] [pid 3264:tid 56] AH00418: Parent: Created child process 4988
+[Sat Mar 13 19:01:34.827322 2021] [ssl:warn] [pid 4344:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 19:01:34.921077 2021] [core:warn] [pid 4344:tid 304] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 13 19:01:35.202318 2021] [ssl:warn] [pid 4344:tid 304] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 19:01:35.327324 2021] [mpm_winnt:notice] [pid 4344:tid 304] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 19:01:35.327324 2021] [mpm_winnt:notice] [pid 4344:tid 304] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 19:01:35.327324 2021] [core:notice] [pid 4344:tid 304] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 19:01:35.327324 2021] [mpm_winnt:notice] [pid 4344:tid 304] AH00418: Parent: Created child process 4160
+[Sat Mar 13 19:01:48.468734 2021] [ssl:warn] [pid 2212:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 19:01:48.562485 2021] [core:warn] [pid 2212:tid 448] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 13 19:01:48.906241 2021] [ssl:warn] [pid 2212:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 19:01:49.093736 2021] [mpm_winnt:notice] [pid 2212:tid 448] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 19:01:49.109370 2021] [mpm_winnt:notice] [pid 2212:tid 448] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 19:01:49.109370 2021] [core:notice] [pid 2212:tid 448] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 19:01:49.109370 2021] [mpm_winnt:notice] [pid 2212:tid 448] AH00418: Parent: Created child process 4340
+[Sat Mar 13 19:01:53.593744 2021] [ssl:warn] [pid 4340:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 19:01:54.046880 2021] [ssl:warn] [pid 4340:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 19:01:54.218749 2021] [mpm_winnt:notice] [pid 4340:tid 340] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 19:25:27.421865 2021] [:error] [pid 4340:tid 1752] [client 91.66.92.29:53857] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\system\\database\\DB_driver.php on line 337, referer: http://nsradio.sytes.net/wow/application/themes/admin/css/login.css
+[Sat Mar 13 20:44:05.732582 2021] [:error] [pid 4340:tid 1756] [client 91.66.92.29:55427] PHP Fatal error:  Class 'SoapClient' not found in E:\\#htdocs\\wow\\application\\emulators\\trinity_rbac_cata_soap.php on line 411, referer: http://nsradio.sytes.net/wow/store
+[Sat Mar 13 21:09:11.352155 2021] [:error] [pid 4340:tid 1764] [client 91.66.92.29:55650] PHP Fatal error:  Class 'SoapClient' not found in E:\\#htdocs\\wow\\application\\emulators\\trinity_rbac_cata_soap.php on line 411, referer: http://nsradio.sytes.net/wow/store
+[Sat Mar 13 21:10:46.519785 2021] [mpm_winnt:notice] [pid 2212:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 13 21:10:48.536945 2021] [mpm_winnt:notice] [pid 4340:tid 340] AH00364: Child: All worker threads have exited.
+[Sat Mar 13 21:10:48.661939 2021] [mpm_winnt:notice] [pid 2212:tid 448] AH00430: Parent: Child process 4340 exited successfully.
+[Sat Mar 13 21:10:54.585732 2021] [ssl:warn] [pid 2772:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 21:10:55.125736 2021] [ssl:warn] [pid 2772:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 21:10:55.340736 2021] [mpm_winnt:notice] [pid 2772:tid 452] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 configured -- resuming normal operations
+[Sat Mar 13 21:10:55.340736 2021] [mpm_winnt:notice] [pid 2772:tid 452] AH00456: Apache Lounge VC11 Server built: Oct 22 2018 14:14:30
+[Sat Mar 13 21:10:55.340736 2021] [core:notice] [pid 2772:tid 452] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 13 21:10:55.345734 2021] [mpm_winnt:notice] [pid 2772:tid 452] AH00418: Parent: Created child process 5552
+[Sat Mar 13 21:10:59.775743 2021] [ssl:warn] [pid 5552:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 21:11:00.310744 2021] [ssl:warn] [pid 5552:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 13 21:11:00.505739 2021] [mpm_winnt:notice] [pid 5552:tid 380] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 13 21:23:08.826936 2021] [:error] [pid 5552:tid 1748] [client 91.66.92.29:55832] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 311, referer: http://nsradio.sytes.net/wow/admin
+[Sat Mar 13 22:38:49.925452 2021] [:error] [pid 5552:tid 1796] [client 222.138.103.60:33802] PHP Notice:  Undefined index: HTTP_HOST in E:\\#htdocs\\index.php on line 7
+[Sat Mar 13 23:32:56.722529 2021] [:error] [pid 5552:tid 1796] [client 91.66.92.29:57777] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 332, referer: http://nsradio.sytes.net/wow/admin/settings
+[Sat Mar 13 23:36:05.800355 2021] [:error] [pid 5552:tid 1776] [client 91.66.92.29:57864] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 332, referer: http://nsradio.sytes.net/wow/admin/
+[Sat Mar 13 23:36:26.870395 2021] [:error] [pid 5552:tid 1804] [client 91.66.92.29:58017] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 311, referer: http://nsradio.sytes.net/wow/admin/
+[Sat Mar 13 23:37:24.698766 2021] [:error] [pid 5552:tid 1776] [client 91.66.92.29:58120] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 311, referer: http://nsradio.sytes.net/wow/admin/
+[Sat Mar 13 23:37:33.318776 2021] [:error] [pid 5552:tid 1792] [client 91.66.92.29:58215] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\system\\database\\DB_driver.php on line 338, referer: http://nsradio.sytes.net/wow/admin/
+[Sat Mar 13 23:37:46.063803 2021] [:error] [pid 5552:tid 1780] [client 91.66.92.29:58312] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\system\\smarty\\sysplugins\\smarty_internal_data.php on line 497, referer: http://nsradio.sytes.net/wow/admin/
+[Sat Mar 13 23:45:23.043779 2021] [:error] [pid 5552:tid 1792] [client 91.66.92.29:58645] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\system\\database\\DB_driver.php on line 453, referer: http://nsradio.sytes.net/wow/admin/
+[Sat Mar 13 23:52:40.228257 2021] [:error] [pid 5552:tid 1780] [client 91.66.92.29:58870] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 311, referer: http://nsradio.sytes.net/wow/admin/
+[Sat Mar 13 23:56:51.054079 2021] [:error] [pid 5552:tid 1748] [client 91.66.92.29:59142] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 329, referer: http://nsradio.sytes.net/wow/admin/
+[Sun Mar 14 00:08:36.845648 2021] [:error] [pid 5552:tid 1748] [client 91.66.92.29:59288] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\system\\smarty\\sysplugins\\smarty_internal_templatebase.php on line 265, referer: http://nsradio.sytes.net/wow/admin/
+[Sun Mar 14 00:13:29.028707 2021] [:error] [pid 5552:tid 1804] [client 91.66.92.29:59431] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\application\\libraries\\template.php on line 332, referer: http://nsradio.sytes.net/wow/admin/
+[Sun Mar 14 00:14:51.086204 2021] [:error] [pid 5552:tid 1748] [client 91.66.92.29:59532] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\#htdocs\\wow\\system\\database\\DB_driver.php on line 296, referer: http://nsradio.sytes.net/wow/admin/
